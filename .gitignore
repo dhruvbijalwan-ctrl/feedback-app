@@ -1,0 +1,12 @@
+target/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
